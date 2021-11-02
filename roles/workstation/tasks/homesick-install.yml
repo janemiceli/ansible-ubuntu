@@ -1,4 +1,0 @@
----
-- name: Download homesick for BDA
-  shell: |
-    /usr/local/bin/homesick clone janemiceli/homestick-dot-files

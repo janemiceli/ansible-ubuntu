@@ -1,0 +1,4 @@
+---
+- name: Download homestick for BDA
+  shell: |
+    /usr/local/bin/homestick clone janemiceli/homestick-dot-files
