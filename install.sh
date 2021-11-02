@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Clone this package
-# git clone https://github.com/Blue-Dog-Archolite/ansible-workstations-ubuntu.git
+# git clone https://github.com/janemiceli/ansible-workstations-ubuntu.git
 # change into directory
 # cd ansible-workstations-ubuntu
 
